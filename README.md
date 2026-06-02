@@ -5,7 +5,7 @@
   <tr>
     <td width="42%" valign="top">
       <a href="https://github.com/kevinsorensen523">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevinsorensen523&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=20&title_color=22a4b3&custom_title=Top%20Languages&hide=html,css,mysql,json,blade,makefile" alt="Top Langs" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevinsorensen523&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=20&title_color=22a4b3&custom_title=Top%20Languages" alt="Top Langs" width="100%" />
     </a>
     </td>
     <td width="42%" valign="top">
